@@ -13,7 +13,7 @@ class Controller extends BaseController
     /**
      * @OA\Info(
      *      version="1.0.0",
-     *      title="Integration Swagger in Laravel with Passport Auth Documentation",
+     *      title="We base education API server Documentation",
      *      description="Implementation of Swagger with in Laravel",
      *      @OA\Contact(
      *          email="admin@admin.com"
